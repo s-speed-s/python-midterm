@@ -18,6 +18,7 @@ This is a console-based Task Scheduler built in Python that allows users to mana
   - Workload
   - Deadline
 - Console-based user interface
-- Insertion Sort used for post-scheduling sorting
+
+---
 
 When ran, the program will prompt the user for information relevant to creating the schedule. Follow the directions in the console to create your schedule.
